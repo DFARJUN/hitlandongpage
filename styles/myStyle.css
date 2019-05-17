@@ -17,7 +17,7 @@ body {
 h1 {
     font-size: 38pt;
     margin-top: 0px;
-    margin-top: 5vh;
+    margin-top: 9vh;
     margin-bottom: 0;
 }
 
@@ -45,7 +45,7 @@ span {
 p {
     font-size: 16pt;
     MARGIN-TOP: 4Vh;
-    MARGIN-BOTTOM: 18Vh;
+    MARGIN-BOTTOM: 14Vh;
 }
 
 #fullname, #phonenum {
@@ -53,8 +53,8 @@ border-radius: 30px;
 border: none;
 }
 
-h1,p,form {
-    margin-right:4vw;
+h1,p,form,a {
+    margin-right:8vw;
 }
 
 #hitlogo {
