@@ -53,8 +53,8 @@ border-radius: 30px;
 border: none;
 }
 
-h1,p,form,a {
-    margin-right:8vw;
+h1, p, form, a, #feedback {
+    margin-right: 8vw;
 }
 
 #hitlogo {
