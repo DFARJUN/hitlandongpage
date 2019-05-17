@@ -1,0 +1,66 @@
+body {
+    direction: rtl;
+    background-color:gray ;
+}
+
+#container {
+    background-color: white;
+    font-family: Heebo;
+    background-image: url('../images/background2.jpg');
+    background-size: auto 100vh;
+    height: 100vh;
+    color: #394f68;
+}
+
+
+
+h1 {
+    font-size: 38pt;
+    margin-top: 0px;
+    margin-top: 5vh;
+    margin-bottom: 0;
+}
+
+#bigh1 {
+    font-size: 4vw;
+
+}
+
+
+#sendForm {
+    background-color: #394f68;
+    color: white;
+    position: relative;
+    top: 22px;
+    border: none;
+    font-weight: bold;
+    border-radius: 30px;
+}
+
+span {
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+p {
+    font-size: 16pt;
+    MARGIN-TOP: 4Vh;
+    MARGIN-BOTTOM: 18Vh;
+}
+
+#fullname, #phonenum {
+border-radius: 30px;
+border: none;
+}
+
+h1,p,form {
+    margin-right:4vw;
+}
+
+#hitlogo {
+    position: absolute;
+    bottom: 1vh;
+    left: 1vw;
+    height: 13vh;
+
+}
